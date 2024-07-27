@@ -1,0 +1,40 @@
+[
+    {
+        "id": 1,
+        "name": "Ahmed",
+        "phoneNumber": "01012954863",
+        "membership": {
+            "from": "2024-01-01",
+            "to": "2025-01-01",
+            "cost": 1000
+        },
+        "status": "active",
+        "trainerID": 1
+    },
+    {
+        "id": 2,
+        "name": "Omar",
+        "nationalID": "123856789",
+        "phoneNumber": "01115896147",
+        "membership": {
+            "from": "2024-01-01",
+            "to": "2025-06-01",
+            "cost": 1500
+        },
+        "status": "active",
+        "trainerID": 2
+    },
+    {
+        "id": 3,
+        "name": "Khalid",
+        "nationalID": "123856789",
+        "phoneNumber": "01115896147",
+        "membership": {
+            "from": "2024-01-01",
+            "to": "2026-01-01",
+            "cost": 2000
+        },
+        "status": "freeze",
+        "trainerID": 3
+    }
+]
